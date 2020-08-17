@@ -1,0 +1,4 @@
+commands/
+configs/
+database.sqlite
+__pycache__
