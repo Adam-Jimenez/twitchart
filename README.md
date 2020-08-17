@@ -1,6 +1,6 @@
 # TwitchArt
 
-![logo](./doc/twitchart.png)
+![logo](./doc/thumb0-640x360.jpg)
 
 Reddit's /r/place, but for Twitch
 
